@@ -1,0 +1,61 @@
+{
+  "name": "Salsa Pa'l Que Sabe Player",
+  "short_name": "Salsa Pa'l Que Sabe",
+  "description": "Mucha Salsa",
+  "start_url": "https://github.com/jhonegalvan/salsaplayer/",
+  "display": "standalone",
+  "background_color": "#FF0000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "assets/ds.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/ds.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./?mode=pwa",
+  "theme_color": "#FF0000",
+  "background_color": "#FF0000", 
+  "orientation": "any", 
+  "display": "standalone", 
+  "display_override": [
+    "standalone"
+  ],
+  "lang": "es-CO", 
+  "dir": "ltr",
+  "categories": [
+    "music"
+  ],
+  "screenshots": [
+    {
+      "src": "assets/ds.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "assets/ds.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "assets/ds.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.jhongalvan.salsapalquesaberadio&pcampaignid=web_share",
+      "id": "com.jhongalvan.salsapalquesaberadio"
+    }
+  ]
+}
