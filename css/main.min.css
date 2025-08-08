@@ -1,12 +1,12 @@
 :root {
-    --primary: #6c6fc6;
+    --primary: #FF0000;
     --bg-body: #262626;
     --bg-app: #0a0a0a;
     --bg-inset: #404040;
     --bg-transparent: rgb(255 255 255 / 10%);
     --bg-modal: rgb(255 255 255 / 20%);
     --bg-dark: rgb(0 0 0 / 75%);
-    --bg-gradient: linear-gradient(180deg, #588EF6, #588EF6);
+    --bg-gradient: linear-gradient(180deg, #FF0000, #FF0000);
     --color-title: #ffffff;
     --color-text: rgb(255 255 255 / 50%);
     --duration: 0.3s;
