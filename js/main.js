@@ -10,7 +10,7 @@
     // Verificar si el navegador soporta Service Worker
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
-            navigator.serviceWorker.register('https://github.com/jhonegalvan/salsaplayer/service-worker.js')
+            navigator.serviceWorker.register('https://jhonegalvan.github.io/salsaplayer/service-worker.js')
                 .then(registration => {
                     console.log('ServiceWorker registrado con éxito:', registration.scope);
                 })
