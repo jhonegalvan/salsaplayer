@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Salsa3';
+const CACHE_NAME = 'Salsa4';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
